@@ -7,5 +7,6 @@ En este apartado se encuentra los archivos del proyecto de microeconomia 1 que n
 En esta carpeta se encuentran los archivos requeridos 
 ## 📂 Navegación rápida
 - [Ir a la carpeta específica](./Trabajo grupal/)
+- xxx
 
 
