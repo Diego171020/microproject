@@ -16,9 +16,12 @@ Este archivo corresponde a un documento pdf en donde se encuentran la informacio
 -   Archivo tipo notebook, con comentarios de los codigos e informacion adicional
 - Enlace al codigo fuente en Github
 
-### Microproject pdf 
+### Microproject pdf [PDF](https://github.com/Diego171020/microproject/blob/e968fa7d4a853c3feecae20cc99864e6722534d9/Trabajo%20grupal/MICROPROJECT.pdf)
 En este apartado se presenta el documento pdf con las especificaciones, comentarios, y explicacion matematica del programa con un ejemplo del caso de una matriz 2x2
 para ello tambien nos genera los valores propios, sistema de ecuaciones, vectores propios, discriminantes y graficas de x(t) y y(t) y diagramas de fase. Ademas de una explicacion matematica dle ejemplo, sumando refeencias utilizadas.
+
+### Microproject.ipynb [PDF](https://github.com/Diego171020/microproject/blob/3449fadc805e1e179289f8309b064e657d4fc806/Trabajo%20grupal/Microproject.ipynb)
+En este apartado se encuentra el documento .ipynb de forma seguida del programa.
 
 
 
