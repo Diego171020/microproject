@@ -4,6 +4,6 @@ En este apartado se encuentra los archivos del proyecto de microeconomia 1 que n
 
 ## Trabajo grupal
 
-En esta carpeta se encuentran los archivos requeridos
+En esta carpeta se encuentran los archivos requeridos Trabajo grupal
 
 
